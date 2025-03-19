@@ -33,8 +33,7 @@ HealthMate is a fully functional web application designed to help users manage t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kirankk1/HealthMate.git
-   ```
+   git clone
 
 2. Navigate to the project directory:
    ```bash
